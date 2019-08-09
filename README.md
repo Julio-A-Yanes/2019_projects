@@ -65,7 +65,7 @@ When adding a new project to the listing, please copy and paste the template bel
   on the movie Forrest Gump, and aim to evaluate their results accuracy and variance.\
 **How to get involved**: Find us in the common area!
 
-### MetaDecoding
+### MetaClass
 **Project url(s)**: [github repo](https://github.com/Julio-A-Yanes/metaclass)\
 **Contributors** (in alphabetical order of last names): [Katie Bottenhorn](https://github.com/62442katieb), [Bharath Chandra Talluri](https://github.com/BharathTalluri), [Julio A Yanes](https://github.com/Julio-A-Yanes)\
 **Description of project**: Use activation maps of four different tasks from various studies obtained through [Brainmap](http://brainmap.org/), and [Neurosynth](http://neurosynth.org/) and train a classifier to predict the task from an activation map.\
